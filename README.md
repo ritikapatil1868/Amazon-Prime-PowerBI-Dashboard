@@ -41,4 +41,6 @@ It includes metadata of Amazon Prime Video titles such as genre, release year, c
 ---
 
 ## 📷 Dashboard Screenshots
-
+1st page of dashbord - https://github.com/ritikapatil1868/Amazon-Prime-PowerBI-Dashboard/blob/main/Screenshot%202026-08-23%20152900.png
+2nd page of dashbord -
+3rd page of dashbord -
