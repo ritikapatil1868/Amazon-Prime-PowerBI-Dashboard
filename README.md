@@ -58,6 +58,8 @@ It includes metadata of Amazon Prime Video titles such as genre, release year, c
   - Clean design with consistent color palette.  
   - Easy navigation across pages: Overview, Content Analysis, Audience & Quality.
  ---   
+ ## **Certification:** https://github.com/ritikapatil1868/Amazon-Prime-PowerBI-Dashboard/blob/main/dashboards%20certification.pdf
+ 
 ## 📷 Dashboard Screenshots
 1st page of dashbord -https://github.com/ritikapatil1868/Amazon-Prime-PowerBI-Dashboard/blob/main/Screenshot%202026-08-23%20150007.png
 
